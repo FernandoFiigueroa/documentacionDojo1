@@ -30,4 +30,4 @@ void prendeYApagaLed(int led,int tiempo,int tiempo_Sumar, int cantidadRepeticion
 }
 ```
 
-[](https://www.tinkercad.com/things/4jOMKU8dgS1)
+[Tinkercard](https://www.tinkercad.com/things/4jOMKU8dgS1)
