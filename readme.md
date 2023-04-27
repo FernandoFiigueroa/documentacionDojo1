@@ -30,5 +30,6 @@ void prendeYApagaLed(int led,int tiempo,int tiempo_Sumar, int cantidadRepeticion
   }
 }
 ```
+:eyes: :+1: ### Link al Proyceto
 
-[Tinkercard](https://www.tinkercad.com/things/4jOMKU8dgS1)
+* [Tinkercard](https://www.tinkercad.com/things/4jOMKU8dgS1) 
