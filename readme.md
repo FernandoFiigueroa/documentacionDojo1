@@ -12,6 +12,7 @@ La empresa “ScaraRobotics” nos pidio hacer una actualizacion low cost de los
 ### Funcion principal
 
 Void PrendeYApagaLed() es una funcion que recibe parametros para trabajarlos con un Bucle for dentro .El bucle for me indica que led prender,cuanto tiempo esta prendido este led,Cuanto tiene que esperar apagado,Etc.
+
 Dentro de mi bucle for tambien llamo a mi funcion power_buzzer(), los valores del parametro se lo paso en mi funcion principal PrendeYApagaLed(),Me dice cuanto tiempo prender,con que frecuencia debe sonar,etc. 
 
 ```
